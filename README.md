@@ -6,6 +6,6 @@
 
 #### 目录说明
 
-AiWeiYi_Tools：已经打包好的程序主目录
-AiWeiYi_Tools_Code：程序源代码目录
+1. AiWeiYi_Tools：已经打包好的程序主目录
+1. AiWeiYi_Tools_Code：程序源代码目录
 
