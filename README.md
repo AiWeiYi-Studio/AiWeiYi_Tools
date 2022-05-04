@@ -4,11 +4,8 @@
 尝试用Python写的程序对接PHP写的爱唯逸官网程序
 
 
-#### 安装教程
+#### 目录说明
 
-1.  Pycharm或其他IDE打开后编译成exe可执行文件
-
-#### 使用说明
-
-1.  编译成exe可执行文件后双击打开即可运行
+AiWeiYi_Tools：已经打包好的程序主目录
+AiWeiYi_Tools_Code：程序源代码目录
 
