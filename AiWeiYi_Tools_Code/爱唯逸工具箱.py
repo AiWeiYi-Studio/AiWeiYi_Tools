@@ -7,12 +7,12 @@
 # @Project: 爱唯逸工具箱
 
 # 引入库
-import webbrowser  # 引用浏览器打开网页
-import urllib.parse  # 加密传输账号密码
+import webbrowser      # 引用浏览器打开网页
+import urllib.parse    # 加密传输账号密码
 import urllib.request  # 爬取网页资源与信息
-import json  # 解析或加密Json信息
-import validators  # 检测Url地址
-import requests  # 获取当前文件路径
+import json            # 解析或加密Json信息
+import validators      # 检测Url地址
+import requests        # 获取当前文件路径
 import os
 import sys
 import subprocess as sp
