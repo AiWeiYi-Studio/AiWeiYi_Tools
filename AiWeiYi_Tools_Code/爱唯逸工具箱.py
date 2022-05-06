@@ -104,7 +104,7 @@ if version != check_info()['version']:
     print("更新内容：")
     print(check_info()['log'])  # 输出云端更新内容
     input("程序有更新请先更新，回车跳转更新")
-    os.startfile(os.getcwd() + "\\Update For 爱唯逸工具箱.exe")
+    os.startfile(os.getcwd() + "\\Update_For_Tools.exe")
 
 # 检测云端程序开放情况，如果云端返回的状态码不为open则程序提示未开放无法运行
 elif check_info()['active'] == '1':
